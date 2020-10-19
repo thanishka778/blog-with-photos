@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+   background: linear-gradient(#ffe100 40%, #fc055c 60%)
+}
+#img1{
+    width: 300px;
+    height: 300px;
+}
+#img2{
+    width:300px;
+    height:300px;
+}
+#img3{
+    width:300px;
+    height:300px;
+}
+#img4{
+    width:300px;
+    height:300px;
+}
